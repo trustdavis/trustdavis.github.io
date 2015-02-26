@@ -38,11 +38,11 @@
  <div class="row">
      <div class="col-md-3 text-center"></div>
      <div class="col-md-3 text-center">	
-        <a class="btn btn-default btn-outline" href="http://web.cs.ucdavis.edu/~defigued/index_files/trustdavis.pdf">Read the Paper</a>
+        <a class="btn btn-default btn-outline" href="http://web.cs.ucdavis.edu/~defigued/index_files/trustdavis.pdf">Read the Academic Paper</a>
        
      </div>
      <div class="col-md-3 text-center"> 
-        <a class="btn btn-default btn-outline" href="https://www.youtube.com/watch?v=UXjIl0LZNOY">Watch the Talk</a>
+        <a class="btn btn-default btn-outline" href="https://www.youtube.com/watch?v=UXjIl0LZNOY">Watch the Ethereum Talk</a>
      </div>
      <div class="col-md-3 text-center"></div>
  </div>
