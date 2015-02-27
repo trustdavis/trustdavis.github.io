@@ -60,9 +60,9 @@ h3, .h3 {
 }
 
 /******* hero section*********/
-#intro {
+/**#intro {
 	padding:10px;
-}
+} **/
 	
 .intro-section {
 	padding-bottom:70px;
@@ -99,7 +99,7 @@ h3, .h3 {
 /***Feature sections****/
 
 .content {
-	padding:10px;
+	padding-top:50px;
 	padding-bottom:500px;
 	/* padding-bottom:300px; */
 	/* padding-top: 50px; */
@@ -110,6 +110,7 @@ h3, .h3 {
 .section-head{ padding-bottom:30px;}
 
 .pic_space{ margin-top:90px;}
+
 /*** btn ****/
 .btn-orange {
 	background-color: #e96644;
@@ -172,117 +173,7 @@ h3, .h3 {
 	letter-spacing: 1px;
 	font-weight: 800;
 }
-/*****Pricing Table********/
 
-.price-box {
-	border-top:1px #ededed solid;
-	border-bottom:1px #ededed solid;
-	border-right:1px #ededed solid;
-		border-left:1px #ededed solid;
-	padding-top:20px;
-	padding-bottom:30px;
-	color:#5a5655;
-	
-}
-.price-box:hover {
-	background-color:#fbf9f8;
-	cursor:pointer;
-}
-.price-box h5 {
-	font-size:18px;
-	text-transform:uppercase;
-	padding-bottom:40px;
-	color:#e96644;
-	font-weight:600;
-}
-.price-box h1 {
-	font-size:72px;
-	text-transform:uppercase;
-	font-weight:bold;
-	margin:0px;
-}
-.price-box ul {
-	margin-top:60px;
-	margin-bottom:60px;
-}
-.price-box ul li {
-	list-style:none;
-	line-height:30px;
-	font-size:14px;
-}
-.page-heading p a {
-	color: #e96644;
-}
-.price-pro {
-	background-color: #8bbb57;
-	color: #fff;
-	padding: 4px 10px;
-	border-radius: 2px;
-	font-size: 13px;
-	font-weight: bold;
-}
-
-
-
-/*****Team Section********/
-
-.team {
-	padding-top:90px;
-}
-.team img {
-	border-radius: 100px;
-	opacity: 0.3;
-	width:100%;
-}
-.team img:hover {
-	border-radius: 100px;
-	opacity: 0.9;
-	cursor: pointer;
-}
-.team .col-md-3 h3 {
-	text-transform: uppercase;
-	font-weight: bold;
-	color: #3a3534;
-}
-.team .col-md-3 span {
-	color:#b9b4b2;
-	text-transform:uppercase;
-	font-weight:bold;
-	-webkit-font-smoothing: antialiased;
-	font-size:13px;
-	margin-bottom: 30px;
-	display: block;
-}
-ul.team-social {
-	margin-top:10px;
-}
-.team-social li {
-	list-style: none;
-	display: inline;
-	margin-left: 8px;
-	margin-top:10px;
-}
-.team-social li a {
-	color: #dedbda;
-}
-.team-social li a:hover {
-	color: #e96644
-}
-.lead-text {
-	font-size: 18px;
-font-weight: bold;
-color: #3a3534;
-letter-spacing: -1px;
-}
-/*****Get In Touch *******/
-.get-touch {
-	padding-top: 90px;
-	padding-bottom: 120px;
-}
-.get-touch form input {
-	border-radius: 2px;
-	font-size:14px;
-}
 /******Footer****/
 
 .footer {
